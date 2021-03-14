@@ -15,7 +15,7 @@ for i in range(m):
                 del q[0]
                 cnt += 1
     else:
-        while True:
+        while True: 
             if q[0] == s[i]:
                 del q[0]
                 break
